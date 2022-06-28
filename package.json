@@ -2,5 +2,26 @@
   "dependencies": {
     "express": "^4.18.1",
     "nanoid": "^3.3.4"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "note-taker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sterlingpeck/note-taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sterlingpeck/note-taker/issues"
+  },
+  "homepage": "https://github.com/sterlingpeck/note-taker#readme"
 }
