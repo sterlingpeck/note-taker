@@ -27,6 +27,10 @@ These dependencies need to be installed to run this application: Node, Express, 
 
 ![Screenshot](./assets/images/2022-07-02%2010_23_07-Note%20Taker.png)
 
+# Live Link
+
+https://obscure-island-75887.herokuapp.com/
+
 # License
 
 This project is licensed under None.
